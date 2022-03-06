@@ -1,0 +1,27 @@
+!SESSION 2022-03-06 13:32:24.922 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-03-06 13:33:59.555
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-03-06 13:33:59.605
+!MESSAGE Log4j initialized with config file C:\Anoop\Studies\Microcontrollers\Microcontroller_Projects\STM32_Projects\Workspace\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-03-06 13:34:05.533
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-03-06 13:37:03.705
+!MESSAGE Indexed 'MIT-Labor_1' (3 sources, 12 headers) in 0,468 sec: 153 declarations; 576 references; 4 unresolved inclusions; 0 syntax errors; 76 unresolved names (9,4 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-03-06 13:42:13.516
+!MESSAGE Indexed 'MIT-Labor_2' (7 sources, 15 headers) in 0,284 sec: 287 declarations; 784 references; 5 unresolved inclusions; 0 syntax errors; 164 unresolved names (13 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-03-06 13:42:29.647
+!MESSAGE Indexed 'MIT-Labor_3' (8 sources, 16 headers) in 0,239 sec: 406 declarations; 1.032 references; 7 unresolved inclusions; 0 syntax errors; 171 unresolved names (11 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-03-06 13:42:46.204
+!MESSAGE Indexed 'MIT-Labor_4' (10 sources, 137 headers) in 2,36 sec: 12.279 declarations; 16.460 references; 10 unresolved inclusions; 0 syntax errors; 417 unresolved names (1,4 %)
